@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+ATG-Config-Path: config/ config
+ATG-J2EE: j2ee-apps/dynamusic-j2ee
+ATG-Required: Dynamusic-Base
+ATG-EAR-Module: j2ee-apps/dynamusic-j2ee
+ATG-Class-Path: classes/
+
